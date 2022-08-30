@@ -1,0 +1,25 @@
+.showCase{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top:4.688rem;
+}
+.showCaseContetn > h1{
+    font-weight:700;
+    font-size:clamp(1.5rem,4vw,3.5rem);
+}
+.comBlock{
+    display: block;
+}
+.paraBlock{
+    display: block;
+    line-height: 2;
+}
+.imageWidth{
+    width:100%;
+}
+.showCaseBtn{
+    display:flex;
+    gap:8px;
+    margin-top:3rem;
+}

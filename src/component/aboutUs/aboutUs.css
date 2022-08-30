@@ -1,0 +1,31 @@
+.aboutUs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:4.688rem;
+}
+
+.whyJoin > ul{
+    padding:0;
+    margin-top:2.5rem;
+}
+.listStyle{
+    list-style-type: none;
+    position: relative;
+    padding-left:1.7rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    width:100px;
+}
+.listStyle::before{
+    content: url("/public/images/listStyle.png");
+    position: absolute;
+    left:0;
+    top:0;
+}
+.listStyle:nth-of-type(2){
+    margin:0.5rem 0;
+}
+.aboutUsImage{
+    width:100%;
+}

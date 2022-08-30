@@ -1,0 +1,16 @@
+.footerLogo{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:1rem 0;
+    color:white;
+}
+.footerLogo li {
+    list-style:none;
+    display: flex;
+}
+.flexSocialIconFooter{
+    display:flex;
+    align-items:center;
+    gap:1rem;
+}

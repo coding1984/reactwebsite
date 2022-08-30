@@ -1,0 +1,17 @@
+.feature{
+    display: flex;
+    background: #FFFFFF;
+    width:522px;
+    height:182px;
+    border-radius:1rem;
+    justify-content:center;
+    align-items: center;
+}
+.featureIcon{
+    margin-bottom: 2rem;
+    margin-left:-2rem;
+    padding-right:1rem;
+}
+.featureContent{
+    width:300px;
+}

@@ -1,0 +1,17 @@
+.footerNav{
+    width:100px;
+    height:200px;
+    color:white;
+
+}
+.footerNav > li{
+    list-style:none;
+    font-size:0.89rem;
+}
+.footerNav > li:nth-of-type(odd){
+    margin:1.2rem 0;
+}
+.footerNav > .title{
+    font-size:1.25rem;
+}
+

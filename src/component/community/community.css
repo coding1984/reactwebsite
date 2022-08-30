@@ -1,0 +1,13 @@
+
+.community{
+    display:flex;
+    justify-content: center;
+    margin-top:140px;
+}
+.communityContent{
+    text-align:center;
+    max-width:420px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}   

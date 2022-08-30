@@ -1,0 +1,9 @@
+.news{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.newsTitle{
+    text-align: center;
+    margin:2rem;
+}

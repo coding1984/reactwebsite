@@ -1,0 +1,17 @@
+.subscribe{
+    width:300px;
+    color:white;
+}
+.inputSubcribe{
+    border:1px solid ;
+    width:290px;
+    display:flex;
+    justify-content:space-between;
+    border-radius:15px;
+}
+.inputSubcribe > input[type="search"] {
+    border:none;   
+}
+.subscribeTitel{
+    font-size:1.5rem;
+}

@@ -1,0 +1,13 @@
+.teamContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.profileContainer{
+    display: flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap: wrap;
+    margin-top:3rem;
+}
